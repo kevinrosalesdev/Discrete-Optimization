@@ -1,0 +1,476 @@
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:13:36 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:19:48 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:20:06 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:20:15 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 1 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [3e+00, 8e+00]
+  Objective range  [4e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Found heuristic solution: objective 18.0000000
+Presolve time: 0.04s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+
+Root relaxation: objective 2.125000e+01, 1 iterations, 0.03 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      19.0000000   19.00000  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.15 seconds
+Thread count was 2 (of 2 available processors)
+
+Solution count 2: 19 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.900000000000e+01, best bound 1.900000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:20:53 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 1 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [3e+00, 8e+00]
+  Objective range  [4e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Found heuristic solution: objective 18.0000000
+Presolve time: 0.00s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+
+Root relaxation: objective 2.125000e+01, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      19.0000000   19.00000  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.01 seconds
+Thread count was 2 (of 2 available processors)
+
+Solution count 2: 19 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.900000000000e+01, best bound 1.900000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:21:04 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 1 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [3e+00, 8e+00]
+  Objective range  [4e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Found heuristic solution: objective 18.0000000
+Presolve time: 0.00s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+
+Root relaxation: objective 2.125000e+01, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      19.0000000   19.00000  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.00 seconds
+Thread count was 2 (of 2 available processors)
+
+Solution count 2: 19 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.900000000000e+01, best bound 1.900000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:21:21 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 1 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [3e+00, 8e+00]
+  Objective range  [4e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Found heuristic solution: objective 18.0000000
+Presolve time: 0.00s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+
+Root relaxation: objective 2.125000e+01, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      19.0000000   19.00000  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.00 seconds
+Thread count was 2 (of 2 available processors)
+
+Solution count 2: 19 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.900000000000e+01, best bound 1.900000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:22:21 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 1 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [3e+00, 8e+00]
+  Objective range  [4e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Found heuristic solution: objective 18.0000000
+Presolve time: 0.00s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+
+Root relaxation: objective 2.125000e+01, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      19.0000000   19.00000  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.00 seconds
+Thread count was 2 (of 2 available processors)
+
+Solution count 2: 19 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.900000000000e+01, best bound 1.900000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:22:49 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 1 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [3e+00, 8e+00]
+  Objective range  [4e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Found heuristic solution: objective 18.0000000
+Presolve time: 0.00s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+
+Root relaxation: objective 2.125000e+01, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      19.0000000   19.00000  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.01 seconds
+Thread count was 2 (of 2 available processors)
+
+Solution count 2: 19 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.900000000000e+01, best bound 1.900000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:22:58 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 1 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [3e+00, 8e+00]
+  Objective range  [4e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Found heuristic solution: objective 18.0000000
+Presolve time: 0.00s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+
+Root relaxation: objective 2.125000e+01, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      19.0000000   19.00000  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.00 seconds
+Thread count was 2 (of 2 available processors)
+
+Solution count 2: 19 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.900000000000e+01, best bound 1.900000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:23:06 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 1 rows, 4 columns and 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+Coefficient statistics:
+  Matrix range     [3e+00, 8e+00]
+  Objective range  [4e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+01, 1e+01]
+Found heuristic solution: objective 18.0000000
+Presolve time: 0.00s
+Presolved: 1 rows, 4 columns, 4 nonzeros
+Variable types: 0 continuous, 4 integer (4 binary)
+
+Root relaxation: objective 2.125000e+01, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0      19.0000000   19.00000  0.00%     -    0s
+
+Explored 0 nodes (2 simplex iterations) in 0.00 seconds
+Thread count was 2 (of 2 available processors)
+
+Solution count 2: 19 18 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.900000000000e+01, best bound 1.900000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:24:23 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:24:31 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:25:01 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:28:14 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:29:22 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:30:04 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:33:18 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:33:44 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:33:54 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:35:21 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:35:34 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:35:59 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:36:44 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:36:52 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:37:09 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:39:58 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (linux64, Python) logging started Sun May 12 21:40:14 2019
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 11:46:44
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 11:47:45
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 11:48:47
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 11:49:45
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 11:50:06
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 11:50:33
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 11:50:39
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 11:50:56
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 11:51:06
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:02:27
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:12:29
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:12:33
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:14:30
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:14:53
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:15:36
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:15:54
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:16:41
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:16:56
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:17:12
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:17:47
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:19:06
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:19:19
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:19:37
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:19:49
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:21:14
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:21:34
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:21:53
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:22:04
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:22:14
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:22:29
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:22:47
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:25:10
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:25:28
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:25:54
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:26:05
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:26:15
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:26:25
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:26:41
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 05/28/19 14:26:52
+
+Academic license - for non-commercial use only
